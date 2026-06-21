@@ -1,0 +1,201 @@
+City,Department,Hospital_Name,Doctor_Name,Floor_Address
+Pune District,Cardiology,Ruby Hall Clinic (Sassoon Road),Dr. Purvez Grant,Main Building 1st Floor Cardiac Care Wing
+Pune District,Cardiology,Ruby Hall Clinic (Sassoon Road),Dr. Chandrashekhar Makhale,Main Building 1st Floor Room 104
+Pune District,Cardiology,Sahyadri Super Speciality Hospital,Dr. Abhijit Palshikar,Tower B 3rd Floor Critical Care Unit
+Pune District,Cardiology,Jehangir Hospital,Dr. Suvarna Khadilkar,OPD Building Ground Floor Room 5
+Pune District,Cardiology,Manipal Hospital Kharadi,Dr. Sivaji Patibandla,Main Tower 2nd Floor Room 211
+Pune District,Cardiology,Inamdar Multispeciality Hospital,Dr. Abhijit Vaidya,Fatima Nagar Main Building 1st Floor
+Pune District,Cardiology,Noble Hospital Hadapsar,Dr. Zaheer Amin,Cardiac Sciences Wing 2nd Floor
+Pune District,Cardiology,Bharati Hospital,Dr. Jitendra Sawant,Katraj Campus Ground Floor OPD Room 3
+Pune District,Cardiology,Poona Hospital and Research Centre,Dr. S. K. Shinde,Main Building 1st Floor Desk 12
+Pune District,Cardiology,Deenanath Mangeshkar Hospital,Dr. Prasad Shah,Super Speciality Tower 3rd Floor
+Pune District,Orthopedics,Sancheti Orthopedic Hospital,Dr. Parag Sancheti,New Wing 2nd Floor Specialist OPD Room 204
+Pune District,Orthopedics,Sancheti Orthopedic Hospital,Dr. Chetan Pradhan,Trauma Wing Ground Floor Emergency Unit
+Pune District,Orthopedics,Sancheti Orthopedic Hospital,Dr. Ketan Khurjekar,Spine Department 3rd Floor Room 301
+Pune District,Orthopedics,Lokmanya Hospital Nigdi,Dr. Ashish Suryawanshi,OPD Block Ground Floor Desk A
+Pune District,Orthopedics,Lokmanya Hospital Pimpri,Dr. Rakesh Patil,Main Building 1st Floor Trauma Counter
+Pune District,Orthopedics,Ruby Hall Clinic,Dr. Nitin Pansare,Main Building Ground Floor Ortho Room 11
+Pune District,Orthopedics,Sahyadri Hospital Deccan,Dr. Abhijit Agashe,OPD Wing 1st Floor Desk 4
+Pune District,Orthopedics,Noble Hospital Hadapsar,Dr. Tushar Chaudhari,Specialist OPD Tower 2nd Floor
+Pune District,Orthopedics,Hardikar Hospital,Dr. Madan Hardikar,Shivajinagar Main Block Ground Floor
+Pune District,Orthopedics,Manipal Hospital Baner,Dr. K. G. Ghate,Main Tower 3rd Floor Ortho Unit
+Pune District,Neurology,Sahyadri Super Speciality Hospital,Dr. Nasli Ichaporia,Neuroscience Tower 4th Floor Desk B
+Pune District,Neurology,Deenanath Mangeshkar Hospital,Dr. Nileesh Bhandari,Super Speciality Block 4th Floor Room 402
+Pune District,Neurology,Ruby Hall Clinic,Dr. Bhushan Joshi,Main OPD Building 2nd Floor Room 208
+Pune District,Neurology,Jehangir Hospital,Dr. Shripad Pujari,Ground Floor Neuro Clinic Room 8
+Pune District,Neurology,Aditya Birla Memorial Hospital,Dr. Sadique Pathan,Thergaon Main Tower 2nd Floor Desk 5
+Pune District,Neurology,Manipal Hospital Kharadi,Dr. Pradeep Divate,Main Building 3rd Floor Neurology Unit
+Pune District,Neurology,Poona Hospital,Dr. N. R. Ichaporia,Main Building 2nd Floor Room 215
+Pune District,Neurology,Noble Hospital Hadapsar,Dr. Rahul Kulkarni,OPD Tower 4th Floor Desk 2
+Pune District,Neurology,Sassoon General Hospital,Dr. S. A. Khan,Station Road Government OPD Block Ground Floor
+Pune District,Neurology,Sahyadri Hospital Kothrud,Dr. Mandar Jog,OPD Wing 1st Floor Room 102
+Pune District,Dermatology,Skin City Clinic (Shivajinagar),Dr. Niteen Dhepe,Pride Silicon Plaza 2nd Floor Main OPD
+Pune District,Dermatology,Manipal Hospital Kharadi,Dr. Shveta Sharma,OPD Building 1st Floor Dermat Center
+Pune District,Dermatology,Ruby Hall Clinic,Dr. Kiran Godse,Main Building Ground Floor Room 14
+Pune District,Dermatology,Jehangir Hospital,Dr. Nitin Shah,OPD Wing 1st Floor Room 106
+Pune District,Dermatology,Deenanath Mangeshkar Hospital,Dr. Narendra Patwardhan,Diagnostic Wing Ground Floor Desk 3
+Pune District,Dermatology,Aditya Birla Memorial Hospital,Dr. Raghunath Mahajan,Main Tower 1st Floor Skin Unit
+Pune District,Dermatology,Sahyadri Hospital Deccan,Dr. Dhanashree Bhide,OPD Building 2nd Floor Room 203
+Pune District,Dermatology,Inamdar Hospital,Dr. Smita Kulkarni,Main Building Ground Floor Desk 7
+Pune District,Dermatology,Noble Hospital,Dr. Amit Kerure,Specialist Tower 1st Floor Skin Counter
+Pune District,Dermatology,Poona Hospital,Dr. Vilas Sawant,Main Building 1st Floor Room 112
+Pune District,General Medicine,Lifeline Clinic Lohgaon,Dr. R. K. Sharma (MBBS),Near MMIT College Plaza Alpha 1st Floor
+Pune District,General Medicine,Sassoon General Hospital,Dr. Sunil Patil,Station Road OPD Building Room 102
+Pune District,General Medicine,Manipal Hospital Kharadi,Dr. Pratibha Yogesh Walde,Main Tower Ground Floor General Desk
+Pune District,General Medicine,Manipal Hospital Kharadi,Dr. Natasha Kumrah,Main Tower Ground Floor General Desk 2
+Pune District,General Medicine,Lokmanya Hospital Nigdi,Dr. Jenny Koshy,Main Building Ground Floor Counter 3
+Pune District,General Medicine,Lokmanya Hospital Pimpri,Dr. Abhijeet Shinde,Main Building Ground Floor Desk 1
+Pune District,General Medicine,Vighnaharta Clinic Lohgaon,Dr. S. R. Jadhav,Vidyanagar Shopping Complex Shop 3
+Pune District,General Medicine,Dhanvantari Clinic,Dr. M. P. Kadam,Vishrantwadi Chowk Ground Floor
+Pune District,General Medicine,Ruby Hall Clinic,Dr. DB Kadam,Main Building Ground Floor Room 101
+Pune District,General Medicine,Jehangir Hospital,Dr. Kayanoosh Kadapatti,OPD Block Ground Floor Counter A
+Mumbai City District,Dermatology,King Edward Memorial (KEM) Hospital,Dr. Vidya D. Kharkar,Main Hospital Building Ward 17-18 Ground Floor
+Mumbai City District,Dermatology,King Edward Memorial (KEM) Hospital,Dr. Sunanda A. Mahajan,Main OPD Building 1st Floor Room No. 117
+Mumbai City District,Dermatology,Sir J.J. Hospital (Byculla),Dr. Chitra Nayak,OPD Building 2nd Floor Skin Department
+Mumbai City District,Dermatology,Lokmanya Tilak Municipal General (Sion) Hospital,Dr. Radha Shah,Main OPD Block Ground Floor Counter 5
+Mumbai City District,Dermatology,BYL Nair Charitable Hospital,Dr. Shaurya Rohatgi,Mumbai Central Ground Floor Skin Clinic
+Mumbai City District,Dermatology,Bombay Hospital & Medical Research Centre,Dr. Nina Madnani,Marine Lines East Wing 2nd Floor
+Mumbai City District,Dermatology,Jaslok Hospital,Dr. Rageshri Mukherjee,Pedder Road Main Tower 3rd Floor
+Mumbai City District,Dermatology,Hinduja Hospital,Dr. Resham Vasani,Mahim West Tower Building 1st Floor
+Mumbai City District,Dermatology,Lilavati Hospital,Dr. Shrilata Trasi,Bandra West OPD Complex Ground Floor
+Mumbai City District,Dermatology,Kokilaben Dhirubhai Ambani Hospital,Dr. Bela Sharma,Andheri West 2nd Floor Room 205
+Mumbai City District,Cardiology,Sir J.J. Hospital (Byculla),Dr. Kalyan Munde,Super Speciality Block 3rd Floor Unit 1
+Mumbai City District,Cardiology,King Edward Memorial (KEM) Hospital,Dr. Prafulla Kerkar,New Building 2nd Floor Cardiac OPD
+Mumbai City District,Cardiology,BYL Nair Charitable Hospital,Dr. Ajay Chaurasia,Mumbai Central 1st Floor Cardio Counter
+Mumbai City District,Cardiology,Lokmanya Tilak Municipal General (Sion) Hospital,Dr. Pratap Nathani,Sion East Main Block 2nd Floor
+Mumbai City District,Cardiology,Bombay Hospital,Dr. B. K. Goyal,Marine Lines Cardiac Wing 3rd Floor
+Mumbai City District,Cardiology,Jaslok Hospital,Dr. Suresh Vijan,Pedder Road Tower B 2nd Floor
+Mumbai City District,Cardiology,Hinduja Hospital,Dr. C. K. Ponde,Mahim Medical Tower 2nd Floor Room 201
+Mumbai City District,Cardiology,Lilavati Hospital,Dr. Samuel Mathew Kalarickal,Bandra West Main Building 1st Floor
+Mumbai City District,Cardiology,Kokilaben Dhirubhai Ambani Hospital,Dr. Jamshed Dalal,Andheri West 1st Floor Clinic A
+Mumbai City District,Cardiology,Breach Candy Hospital,Dr. Devendra Saksena,Bhulabhai Desai Road Ground Floor Cardio
+Mumbai City District,Endocrinology,King Edward Memorial (KEM) Hospital,Dr. Tushar Bandgar,New Building 5th Floor Endocrinology Desk
+Mumbai City District,Endocrinology,BYL Nair Charitable Hospital,Dr. Shailesh Lodha,Mumbai Central 2nd Floor Endo Office
+Mumbai City District,Endocrinology,Sir J.J. Hospital,Dr. Premlata Varthakavi,Byculla Main Block 3rd Floor Room 309
+Mumbai City District,Endocrinology,Hinduja Hospital,Dr. Phulrenu Chauhan,Mahim Tower 2nd Floor Desk 7
+Mumbai City District,Endocrinology,Kokilaben Hospital,Dr. Shehla Shaikh,Andheri West 3rd Floor Endocrinology Unit
+Mumbai City District,Endocrinology,Jaslok Hospital,Dr. S. R. Joshi,Pedder Road Main Building 2nd Floor Room 212
+Mumbai City District,Endocrinology,Lilavati Hospital,Dr. Shashank Joshi,Bandra West OPD Building Ground Floor
+Mumbai City District,Endocrinology,Bombay Hospital,Dr. S. G. Balani,Marine Lines East Wing 1st Floor
+Mumbai City District,Endocrinology,Breach Candy Hospital,Dr. Altamash Sheikh,Main Campus Ground Floor Room 4
+Mumbai City District,Endocrinology,H N Reliance Foundation Hospital,Dr. Manoj Chadha,Girgaon Main Tower 4th Floor
+Mumbai City District,Gastroenterology,Lokmanya Tilak Municipal General (Sion) Hospital,Dr. Akash Shukla,OPD Building Ground Floor Gastro Department
+Mumbai City District,Gastroenterology,King Edward Memorial (KEM) Hospital,Dr. Shobna Bhatia,New Building 3rd Floor Gastro OPD
+Mumbai City District,Gastroenterology,BYL Nair Charitable Hospital,Dr. Pravin Rathi,Mumbai Central 1st Floor Gastro Wing
+Mumbai City District,Gastroenterology,Sir J.J. Hospital,Dr. Devendra Desai,Byculla Main Block Ground Floor Room 10
+Mumbai City District,Gastroenterology,Jaslok Hospital,Dr. SK Sama,Pedder Road Tower A 3rd Floor
+Mumbai City District,Gastroenterology,Bombay Hospital,Dr. Deepak Amarapurkar,Marine Lines Gastro Sciences Unit 2nd Floor
+Mumbai City District,Gastroenterology,Lilavati Hospital,Dr. Amit Maydeo,Bandra West Endoscopy Suite 1st Floor
+Mumbai City District,Gastroenterology,Kokilaben Hospital,Dr. Chetan Bhatt,Andheri West 2nd Floor Clinic B
+Mumbai City District,Gastroenterology,Hinduja Hospital,Dr. Philip Abraham,Mahim Complex Ground Floor Gastro Counter
+Mumbai City District,Gastroenterology,Tata Memorial Hospital,Dr. Mahesh Goenka,Parel Oncology Gastro Wing 2nd Floor
+Mumbai City District,Pulmonology,Sir J.J. Hospital (Byculla),Dr. Amita Athavale,Respiratory Medicine Wing 2nd Floor Wing C
+Mumbai City District,Pulmonology,King Edward Memorial (KEM) Hospital,Dr. AR Pazare,Main Building 2nd Floor Chest Clinic
+Mumbai City District,Pulmonology,BYL Nair Hospital,Dr. J. M. Joshi,Mumbai Central 3rd Floor Pulmonary Desk
+Mumbai City District,Pulmonology,Bombay Hospital,Dr. Ashok Mahashur,Marine Lines Chest Department 1st Floor
+Mumbai City District,Pulmonology,Hinduja Hospital,Dr. Zarir Udwadia,Mahim MultiSpecialty Block Ground Floor Room 15
+Mumbai City District,Pulmonology,Lilavati Hospital,Dr. P. S. Shankar,Bandra West OPD Complex 1st Floor
+Mumbai City District,Pulmonology,Jaslok Hospital,Dr. Sanjeev Mehta,Pedder Road Main Tower 4th Floor
+Mumbai City District,Pulmonology,Kokilaben Hospital,Dr. S. P. Rai,Andheri West 3rd Floor Respiratory Unit
+Mumbai City District,Pulmonology,H N Reliance Hospital,Dr. Sujeet Rajan,Girgaon Main Block 2nd Floor Room 204
+Mumbai City District,Pulmonology,Breach Candy Hospital,Dr. Farokh Udwadia,Main Campus Ground Floor Suite 1
+Nashik District,General Medicine,Nashik Civil Hospital,Dr. Rajendra Wagh,Sharanpur Road Campus Main OPD Wing Counter 1
+Nashik District,General Medicine,Nashik Civil Hospital,Dr. G. S. Shinde,Sharanpur Road Campus Main OPD Wing Counter 2
+Nashik District,General Medicine,Shree Saibaba Hospital,Dr. Kunal Nikam,OPD Complex Ground Floor Room 101
+Nashik District,General Medicine,Shree Saibaba Hospital,Dr. Ganesh Motwani,OPD Complex Ground Floor Room 102
+Nashik District,General Medicine,Shree Saibaba Hospital,Dr. Bharat Patil,OPD Complex Ground Floor Room 103
+Nashik District,General Medicine,Shree Saibaba Hospital,Dr. Rahul Barhate,OPD Complex Ground Floor Room 104
+Nashik District,General Medicine,Wockhardt Hospitals Nashik,Dr. Lalit Pawar,Main Building Ground Floor General Medicine Desk
+Nashik District,General Medicine,Apollo Hospitals Nashik,Dr. Pramod Gunjal,Panchavati Campus Ground Floor OPD 2
+Nashik District,General Medicine,Magna Hospital Nashik,Dr. Nitin Kadam,Main Entrance Block Ground Floor Desk A
+Nashik District,General Medicine,Six Sigma Hospital,Dr. Sachin Deore,OPD Center Ground Floor Counter 3
+Nashik District,Dermatology,Apollo Hospitals Nashik,Dr. Snehal Jadhav,Main Tower 2nd Floor Skin and Cosmetology Clinic
+Nashik District,Dermatology,Wockhardt Hospitals Nashik,Dr. Devendra Patil,OPD Wing 1st Floor Skin Counter
+Nashik District,Dermatology,Magna Hospital,Dr. Priyanka Wagh,Main Building 1st Floor Dermatology Room 114
+Nashik District,Dermatology,Six Sigma Hospital,Dr. Rahul Patil,Consulting Wing Ground Floor Desk 8
+Nashik District,Dermatology,Nashik Civil Hospital,Dr. V. K. Kelkar,Government OPD Wing Ground Floor Room 6
+Nashik District,Dermatology,Shree Saibaba Hospital,Dr. Amit Borse,OPD Complex 2nd Floor Skin Counter
+Nashik District,Dermatology,Suyash Hospital Nashik,Dr. Kavita Ghadge,Main Building 1st Floor Skin Dept
+Nashik District,Dermatology,Sahyadri Hospital Nashik,Dr. Nilesh Deore,OPD Block Ground Floor Room 15
+Nashik District,Dermatology,NMC Hospital Nashik,Dr. S. R. Joshi,Municipal Corporation OPD Ground Floor
+Nashik District,Dermatology,Lifeline Hospital Nashik,Dr. Priya Shinde,Main Building Ground Floor Skin Desk
+Nashik District,Cardiology,Wockhardt Hospitals Nashik,Dr. Prasanna Kukreja,Cardiac Block 1st Floor OPD Room 108
+Nashik District,Cardiology,Shree Saibaba Hospital,Dr. Aniruddha Dharmadhikari,Cardiac Center Ground Floor Room 201
+Nashik District,Cardiology,Shree Saibaba Hospital,Dr. Amit Chaudhari,Cardiac Center Ground Floor Room 202
+Nashik District,Cardiology,Shree Saibaba Hospital,Dr. Nilesh Tawade,Cardiac Center Ground Floor Room 203
+Nashik District,Cardiology,Apollo Hospitals Nashik,Dr. Jayant Dhake,Panchavati Campus 1st Floor Cath Lab Reception
+Nashik District,Cardiology,Suyash Hospital,Dr. Hemant Oswal,Main Building 2nd Floor Cardiac Unit
+Nashik District,Cardiology,Magna Hospital,Dr. Sandeep Thorat,Main Tower 1st Floor Cardiology Desk
+Nashik District,Cardiology,Six Sigma Hospital,Dr. Nitin Pawar,OPD Wing 2nd Floor Room 205
+Nashik District,Cardiology,Nashik Civil Hospital,Dr. S. M. Patil,Government Cardiac Cell Ground Floor
+Nashik District,Cardiology,Sahyadri Hospital Nashik,Dr. Abhijit Karad,Main Block Ground Floor Room 12
+Nashik District,Orthopedics,Magna Hospital Nashik,Dr. Sandeep Sonawane,Ground Floor Ortho-Trauma OPD Desk
+Nashik District,Orthopedics,Shree Saibaba Hospital,Dr. Ajinkya Desale,OPD Complex 1st Floor Room 110
+Nashik District,Orthopedics,Shree Saibaba Hospital,Dr. Satyen Joshi,OPD Complex 1st Floor Room 111
+Nashik District,Orthopedics,Shree Saibaba Hospital,Dr. Brijbhushan Mahajan,OPD Complex 1st Floor Room 112
+Nashik District,Orthopedics,Shree Saibaba Hospital,Dr. Swapnil Mahale,OPD Complex 1st Floor Room 113
+Nashik District,Orthopedics,Wockhardt Hospitals Nashik,Dr. Nitin Bhangale,Main Building Ground Floor Ortho Unit
+Nashik District,Orthopedics,Apollo Hospitals Nashik,Dr. Vijay Kakad,Panchavati Campus Ground Floor Room 5
+Nashik District,Orthopedics,Six Sigma Hospital,Dr. Manoj Patil,OPD Wing Ground Floor Counter B
+Nashik District,Orthopedics,Nashik Civil Hospital,Dr. R. B. Jagtap,Government Trauma Center Ground Floor
+Nashik District,Orthopedics,Suyash Hospital,Dr. Chetan Shinde,Main Building 1st Floor Ortho Desk
+Nashik District,Gynecology,Six Sigma Hospital Nashik,Dr. Smita Pawar,Mother & Child Wing 3rd Floor Ward A
+Nashik District,Gynecology,Apollo Hospitals Nashik,Dr. Lalita Deore,Panchavati Campus 2nd Floor Gynaec OPD
+Nashik District,Gynecology,Wockhardt Hospitals Nashik,Dr. Jayashree Shinde,Main Building 1st Floor Gynaec Counter
+Nashik District,Gynecology,Magna Hospital,Dr. Swati Sonawane,Main Block 2nd Floor Maternity Unit
+Nashik District,Gynecology,Nashik Civil Hospital,Dr. Pratibha Wagh,Maternity Block Ground Floor Room 3
+Nashik District,Gynecology,Suyash Hospital,Dr. Vidya Jadhav,Main Building 1st Floor Gynecology Desk
+Nashik District,Gynecology,Shree Saibaba Hospital,Dr. Ankita Gharge,OPD Complex 2nd Floor Room 205
+Nashik District,Gynecology,Sahyadri Hospital Nashik,Dr. Varsha Patil,OPD Building Ground Floor Room 8
+Nashik District,Gynecology,NMC Hospital Nashik,Dr. S. M. Kulkarni,Municipal Maternity Wing Ground Floor
+Nashik District,Gynecology,Lifeline Hospital Nashik,Dr. Poonam Deore,Main Building Ground Floor Maternity Desk
+Nagpur District,Cardiology,Wockhardt Super Speciality Hospital,Dr. Nitin Tiwari,Shankar Nagar Campus Cardiac Care Tower 3rd Floor
+Nagpur District,Cardiology,Wockhardt Super Speciality Hospital,Dr. Amit S. Ballamwar,Shankar Nagar Campus Cardiac Care Tower 1st Floor
+Nagpur District,Cardiology,Wockhardt Super Speciality Hospital,Dr. Dinesh B Padole,Shankar Nagar Campus Cardiac Care Tower 2nd Floor
+Nagpur District,Cardiology,Ganga CARE Hospital Limited,Dr. Amey Beedkar,Main Building Ground Floor Cardiology Block
+Nagpur District,Cardiology,Kingsway Hospitals,Dr. Pramod Mundra,Tower A 2nd Floor Cardiology Suite
+Nagpur District,Cardiology,Alexis Hospital,Dr. Rishi Lohiya,Main Block Ground Floor Cardiac Center
+Nagpur District,Cardiology,Government Medical College (GMCH),Dr. Mukund Deshpande,Ajni Campus Cardiac Unit Ground Floor
+Nagpur District,Cardiology,Indira Gandhi Govt Medical College (IGMCH),Dr. S. K. Pasari,Central Avenue Super Speciality Block
+Nagpur District,Cardiology,Arneja Heart Institute,Dr. Jaspal Arneja,Main Building 1st Floor Cardiac Desk
+Nagpur District,Cardiology,Platina Heart Hospital,Dr. Pramod Mundra,OPD Complex Ground Floor Room 101
+Nagpur District,General Medicine,Government Medical College & Hospital (GMCH),Dr. Vivek Raut,Ajni Campus Main OPD Block Ground Floor Room 5
+Nagpur District,General Medicine,Government Medical College & Hospital (GMCH),Dr. Soubeer Ghosh,Ajni Campus Main OPD Block Ground Floor Room 6
+Nagpur District,General Medicine,Government Medical College & Hospital (GMCH),Dr. Venkata Sai Nikhil,Ajni Campus Main OPD Block Ground Floor Room 7
+Nagpur District,General Medicine,Government Medical College & Hospital (GMCH),Dr. Shashank S Gowda,Ajni Campus Main OPD Block Ground Floor Room 8
+Nagpur District,General Medicine,Ganga CARE Hospital,Dr. Pratibha Walde,Main Building Ground Floor General Medicine Desk
+Nagpur District,General Medicine,Wockhardt Super Speciality Hospital,Dr. Suresh Kubavat,Shankar Nagar Campus Ground Floor Desk B
+Nagpur District,General Medicine,Wockhardt Super Speciality Hospital,Dr. Mohammad Iqbal Ahmad,Shankar Nagar Campus Ground Floor Desk C
+Nagpur District,General Medicine,Wockhardt Super Speciality Hospital,Dr. Aesha Vinaykumar Bhatt,Shankar Nagar Campus Ground Floor Desk D
+Nagpur District,General Medicine,Kingsway Hospitals,Dr. Sunanda Chaoji,Tower 1 Ground Floor General Counter
+Nagpur District,General Medicine,Alexis Hospital,Dr. Vineet Mittal,OPD Complex Ground Floor Room 102
+Nagpur District,Pulmonology,Indira Gandhi Govt Medical College (IGMCH),Dr. Neha Sharma,Central Avenue Campus Super Speciality Wing 2nd Floor
+Nagpur District,Pulmonology,Ganga CARE Hospital,Dr. Diti V Gandhasiri,Main Building 2nd Floor Pulmonary Block
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Kanabur Prashanth,Shankar Nagar Campus 1st Floor Pulmonary Unit
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Saswat Subhankar,Shankar Nagar Campus 1st Floor Pulmonary Unit 2
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Ranjit Basha,Shankar Nagar Campus 2nd Floor Respiratory Block
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Vysakh Kumar,Shankar Nagar Campus 2nd Floor Respiratory Block 2
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Shilpa Jain,Shankar Nagar Campus 3rd Floor Chest Clinic
+Nagpur District,Pulmonology,Wockhardt Super Speciality Hospital,Dr. Prem Prakash,Shankar Nagar Campus 3rd Floor Chest Clinic 2
+Nagpur District,Pulmonology,Kingsway Hospitals,Dr. Rajendra Prasad,Tower B 2nd Floor Pulmonary Desk
+Nagpur District,Pulmonology,Alexis Hospital,Dr. Sameer Arbat,Main Block Ground Floor Pulmonary Unit
+Nagpur District,Gastroenterology,Kingsway Hospitals Nagpur,Dr. Amol Samarth,Tower 1 2nd Floor Liver & Digestive Diseases Clinic
+Nagpur District,Gastroenterology,Wockhardt Super Speciality Hospital,Dr. Piyush Marudwar,Shankar Nagar Campus 1st Floor Digestive Care Unit
+Nagpur District,Gastroenterology,Wockhardt Super Speciality Hospital,Dr. Jay J Chudasama,Shankar Nagar Campus 1st Floor Digestive Care Unit 2
+Nagpur District,Gastroenterology,Wockhardt Super Speciality Hospital,Dr. Jagdish Kaswan,Shankar Nagar Campus 2nd Floor Gastro Block
+Nagpur District,Gastroenterology,Ganga CARE Hospital,Dr. Shrikant Mukewar,Main Building Ground Floor Gastro Desk
+Nagpur District,Gastroenterology,Government Medical College (GMCH),Dr. Sudhir Gupta,Ajni Campus Gastro OPD Ground Floor
+Nagpur District,Gastroenterology,Alexis Hospital,Dr. Sanjay Rajput,OPD Complex 2nd Floor Gastro Suite
+Nagpur District,Gastroenterology,Arneja Hospital,Dr. Nitin Kimmatkar,Main Block Ground Floor Gastro Counter
+Nagpur District,Gastroenterology,Platina Hospital,Dr. Amol Samarth,OPD Wing 1st Floor Room 105
+Nagpur District,Gastroenterology,Seven Star Hospital,Dr. Prashant Rahate,Main Campus Ground Floor Desk A
+Nagpur District,Urology,Arneja Institute of Medical Sciences,Dr. Shailesh Arneja,Main Multi-Specialty Wing 1st Floor Urology OPD
+Nagpur District,Urology,Wockhardt Super Speciality Hospital,Dr. Rishabh Garg,Shankar Nagar Campus 2nd Floor Urology Counter
+Nagpur District,Urology,Ganga CARE Hospital,Dr. Dhananjay Selukar,Main Building 1st Floor Urology Desk
+Nagpur District,Urology,Kingsway Hospitals,Dr. Jitendra Hazare,Tower B 1st Floor Urology Clinic
+Nagpur District,Urology,Alexis Hospital,Dr. Sanjay Kolte,Main Block Ground Floor Urology Counter
+Nagpur District,Urology,Government Medical College (GMCH),Dr. Kunal Meshram,Ajni Campus Urology Ward Ground Floor
+Nagpur District,Urology,Seven Star Hospital,Dr. Sadashiv Bhole,Main Campus 1st Floor Urology Desk
+Nagpur District,Urology,Medanta Clinic Nagpur,Dr. Rajesh Tiwari,OPD Center Ground Floor Counter 4
+Nagpur District,Urology,Nagpur Civil Hospital,Dr. S. K. Nayak,Government OPD Wing Ground Floor Room 9
+Nagpur District,Urology,Care Hospital Ramdaspeth,Dr. Gaurav Mishra,Main Building Ground Floor Urology Unit

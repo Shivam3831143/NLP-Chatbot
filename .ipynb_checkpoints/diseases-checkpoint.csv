@@ -1,0 +1,101 @@
+Disease_Tag,Patient_Input_English,Patient_Input_Hindi,Patient_Input_Marathi,Core_Symptom,Target_Department,Urgency_Level
+Common Cold,My nose is running and I keep sneezing,मेरी नाक बह रही है और मुझे लगातार छींक आ रही है,माझे नाक गळत आहे आणि सतत शिंका येत आहेत,sneezing,Infectious Diseases,Basic Care
+Influenza,My whole body aches and I have a fever,मेरे पूरे शरीर में दर्द है और बुखार है,माझ्या पूर्ण अंगामध्ये दुखत आहे आणि ताप आहे,body ache,Infectious Diseases,Basic Care
+Diabetes,I feel thirsty all the time and pee frequently,मुझे हर समय प्यास लगती है और बार-बार पेशाब आता है,मला सतत तहान लागते आणि वारंवार लघवीला जावे लागते,thirsty,Endocrinology,Specialized Care
+Asthma,I am wheezing and it is hard to catch my breath,मुझे सांस लेने में दिक्कत हो रही है और सीटी की आवाज़ आ रही है,मला श्वास घेताना त्रास होत आहे आणि छातीतून आवाज येत आहे,wheezing,Pulmonology,Emergency
+GERD,My chest is burning after I eat,खाना खाने के बाद मेरे सीने में जलन होती है,जेवल्यानंतर माझ्या छातीत जळजळ होते,heartburn,Gastroenterology,Basic Care
+Peptic Ulcer,My stomach burns and I feel sick,मेरे पेट में जलन होती है और उल्टी जैसा लगता है,माझ्या पोटात जळजळ होते आणि मळमळते,stomach burn,Gastroenterology,Specialized Care
+Migraine,I have a terrible headache and light hurts my eyes,मेरे सिर में भयंकर दर्द है और रोशनी चुभ रही है,माझे डोके भयंकर दुखत आहे आणि प्रकाश डोळ्यांना लागतो,severe headache,Neurology,Specialized Care
+Heart Failure,My legs are swollen and I get breathless easily,मेरे पैरों में सूजन है और जल्दी सांस फूल जाती है,माझ्या पायांवर सूज आहे आणि लगेच धाप लागते,breathless,Cardiology,Emergency
+Hypothyroidism,I am gaining weight and feel cold all the time,मेरा वजन बढ़ रहा है और हमेशा ठंड लगती है,माझे वजन वाढत आहे आणि सतत थंडी वाजते,weight gain,Endocrinology,Specialized Care
+Parkinsons,My hands are shaking and my body feels stiff,मेरे हाथ कांप रहे हैं और शरीर में अकड़न है,माझे हात थरथरत आहेत आणि शरीर आखडले आहे,shaking,Neurology,Specialized Care
+IBS,My stomach hurts and I am bloated,मेरे पेट में दर्द है और गैस बन रही है,माझ्या पोटात दुखत आहे आणि गॅस झाला आहे,bloated,Gastroenterology,Basic Care
+Eczema,My skin is extremely dry and itchy,मेरी त्वचा बहुत सूखी है और खुजली हो रही है,माझी त्वचा खूप कोरडी आहे आणि खाज सुटत आहे,dry skin,Dermatology,Basic Care
+Osteoarthritis,My knee joints are stiff and hurt when I walk,चलते समय मेरे घुटनों में अकड़न और दर्द होता है,चालताना माझ्या गुडघ्यांमध्ये आखडलेपणा आणि वेदना होतात,joint stiffness,Orthopedics,Specialized Care
+Depression,I feel sad all the time and cannot sleep,मैं हर समय उदास रहता हूं और नींद नहीं आती,मला सतत उदास वाटते आणि झोप येत नाही,sadness,Psychiatry,Specialized Care
+Sinusitis,My face hurts and my nose is completely blocked,मेरे चेहरे पर दर्द है और नाक पूरी तरह बंद है,माझा चेहरा दुखत आहे आणि नाक पूर्णपणे बंद आहे,blocked nose,ENT,Basic Care
+Conjunctivitis,My eyes are super red and have sticky discharge,मेरी आँखें लाल हो गई हैं और कीचड़ आ रहा है,माझे डोळे लाल झाले आहेत आणि त्यातून घाण येत आहे,red eyes,Ophthalmology,Basic Care
+Kidney Stones,I have extreme pain in my lower back side,मेरी पीठ के निचले हिस्से में बहुत तेज दर्द है,माझ्या पाठीच्या खालच्या भागात खूप तीव्र वेदना होत आहेत,flank pain,Nephrology,Emergency
+UTI,It burns really badly when I pee,मुझे पेशाब करते समय बहुत जलन होती है,मला लघवी करताना खूप जळजळ होते,burning urination,Urology,Specialized Care
+Dengue,I have a high fever and my joints hurt terribly,मुझे तेज बुखार है और जोड़ों में भयंकर दर्द है,मला खूप ताप आहे आणि सांध्यांमध्ये भयंकर वेदना आहेत,high fever,Infectious Diseases,Emergency
+Tuberculosis,I have been coughing for weeks and losing weight,मुझे हफ्तों से खांसी है और वजन कम हो रहा है,मला अनेक आठवड्यांपासून खोकला आहे आणि वजन कमी होत आहे,persistent cough,Pulmonology,Specialized Care
+PCOS,My periods are irregular and I have acne,मेरे पीरियड्स समय पर नहीं आते और मुंहासे हैं,माझी पाळी वेळेवर येत नाही आणि चेहऱ्यावर मुरुमे आहेत,irregular periods,Gynecology,Specialized Care
+Food Poisoning,I am vomiting and have bad stomach cramps,मुझे उल्टी हो रही है और पेट में मरोड़ है,मला उलट्या होत आहेत आणि पोटात पेटके येत आहेत,cramps,Gastroenterology,Specialized Care
+Appendicitis,I have sharp pain in the lower right side of my stomach,मेरे पेट के निचले दाहिने हिस्से में तेज दर्द है,माझ्या पोटाच्या उजव्या बाजूला खाली खूप दुखत आहे,lower right pain,Gastroenterology,Emergency
+Heart Attack,My chest hurts badly and I am sweating profusely,मेरे सीने में बहुत दर्द है और खूब पसीना आ रहा है,माझ्या छातीत खूप दुखत आहे आणि खूप घाम येत आहे,chest pain,Cardiology,Emergency
+Stroke,Half of my face is drooping and my speech is slurred,मेरा आधा चेहरा लटक गया है और आवाज लड़खड़ा रही है,माझा अर्धा चेहरा वाकडा झाला आहे आणि बोलता येत नाही,facial drooping,Neurology,Emergency
+Dandruff,My scalp is very flaky and itches,मेरे सिर में बहुत रूसी है और खुजली होती है,माझ्या डोक्यात खूप कोंडा झाला आहे आणि खाज येते,flaky scalp,Dermatology,Basic Care
+Cataract,My vision is getting blurry and sensitive to glare,मुझे धुंधला दिख रहा है और रोशनी से परेशानी है,मला अंधुक दिसत आहे आणि प्रकाशाचा त्रास होतो,blurry vision,Ophthalmology,Specialized Care
+Tonsillitis,My throat hurts so much I cannot swallow,मेरा गला इतना दुख रहा है कि कुछ निगला नहीं जा रहा,माझा घसा इतका दुखत आहे की काही गिळता येत नाही,swallow pain,ENT,Basic Care
+Malaria,I have severe chills and a high fever,मुझे बहुत ठंड लग रही है और तेज बुखार है,मला खूप थंडी वाजत आहे आणि कडक ताप आला आहे,chills,Infectious Diseases,Emergency
+Typhoid,I have a continuous fever and stomach pain,मुझे लगातार बुखार और पेट दर्द है,मला सतत ताप आणि पोटदुखी आहे,continuous fever,Infectious Diseases,Specialized Care
+Chikungunya,My joints are in severe pain and I have a fever,मेरे जोड़ों में भयानक दर्द है और बुखार है,माझ्या सांध्यांमध्ये भयंकर वेदना आहेत आणि ताप आहे,joint pain,Infectious Diseases,Specialized Care
+Rabies,A dog bit me and I feel scared of water,मुझे कुत्ते ने काटा था और अब पानी से डर लग रहा है,मला कुत्र्याने चावले होते आणि आता पाण्याची भीती वाटते,dog bite,Infectious Diseases,Emergency
+Measles,I have a red rash everywhere and a runny nose,मेरे शरीर पर लाल दाने हैं और नाक बह रही है,माझ्या अंगावर लाल पुरळ आहे आणि नाक गळत आहे,red rash,Pediatrics,Basic Care
+Mumps,My cheeks are swollen and painful,मेरे गाल सूज गए हैं और दर्द हो रहा है,माझे गाल सुजले आहेत आणि दुखत आहेत,swollen cheeks,Pediatrics,Basic Care
+Chickenpox,I have itchy water blisters all over my body,मेरे पूरे शरीर पर खुजली वाले पानी के बुलबुले हैं,माझ्या पूर्ण अंगावर खाज सुटणारे पाण्याचे फोड आले आहेत,blisters,Infectious Diseases,Basic Care
+Cholera,I have severe watery diarrhea,मुझे बहुत ज्यादा पानी जैसे दस्त हो रहे हैं,मला खूप जास्त पाण्यासारखे जुलाब होत आहेत,watery diarrhea,Gastroenterology,Emergency
+Bronchitis,I am coughing up thick yellow mucus,मुझे खांसी के साथ पीला बलगम आ रहा है,मला खोकल्यासोबत पिवळा बेडका पडत आहे,yellow mucus,Pulmonology,Basic Care
+Pneumonia,My chest hurts when I breathe and I have a high fever,सांस लेते समय मेरे सीने में दर्द होता है और तेज बुखार है,श्वास घेताना छातीत दुखते आणि कडक ताप आहे,chest hurts breathe,Pulmonology,Emergency
+Sleep Apnea,I snore loudly and stop breathing in my sleep,मैं जोर से खर्राटे लेता हूं और सोते समय सांस रुक जाती है,मी खूप घोरतो आणि झोपेत श्वास थांबतो,snore loudly,Pulmonology,Specialized Care
+Gallstones,I have sudden sharp pain in my upper right stomach,मेरे पेट के ऊपरी दाहिने हिस्से में अचानक तेज दर्द हुआ है,माझ्या पोटाच्या वरच्या उजव्या बाजूला अचानक खूप दुखत आहे,upper right stomach,Gastroenterology,Emergency
+Pancreatitis,I have severe stomach pain that goes to my back,मेरे पेट में भयानक दर्द है जो पीठ तक जा रहा है,माझ्या पोटात भयंकर वेदना आहेत ज्या पाठीपर्यंत जात आहेत,pain to back,Gastroenterology,Emergency
+Hemorrhoids,I bleed when I poop and it hurts,मल त्यागते समय खून आता है और दर्द होता है,शौचाच्या वेळी रक्त पडते आणि दुखते,bleed poop,Gastroenterology,Specialized Care
+Cirrhosis,My eyes are yellow and my belly is swollen,मेरी आँखें पीली हैं और पेट सूज गया है,माझे डोळे पिवळे झाले आहेत आणि पोट फुगले आहे,yellow eyes,Gastroenterology,Emergency
+Hypertension,My head is throbbing and I feel dizzy,मेरा सिर भयंकर दर्द कर रहा है और चक्कर आ रहे हैं,माझे डोके खूप दुखत आहे आणि चक्कर येत आहे,head throbbing,Cardiology,Specialized Care
+Arrhythmia,My heart feels like it is fluttering or skipping beats,मेरा दिल धड़कना भूल रहा है या बहुत तेज फड़क रहा है,माझ्या हृदयाचे ठोके चुकल्यासारखे किंवा खूप जोरात पडत आहेत,heart fluttering,Cardiology,Emergency
+DVT,"One of my legs is swollen, red, and painful","मेरा एक पैर सूज गया है, लाल है और दर्द कर रहा है","माझा एक पाय सुजला आहे, लाल झाला आहे आणि दुखत आहे",one leg swollen,Cardiology,Emergency
+Anemia,I feel extremely weak and my skin looks pale,मैं बहुत कमज़ोर महसूस कर रहा हूँ और त्वचा पीली पड़ गई है,मला खूप अशक्तपणा जाणवत आहे आणि त्वचा पांढरी पडली आहे,extremely weak,Hematology,Specialized Care
+Rheumatoid Arthritis,My fingers are swollen and stiff every morning,हर सुबह मेरी उंगलियों में सूजन और अकड़न होती है,रोज सकाळी माझ्या बोटांना सूज असते आणि ती आखडतात,fingers swollen,Orthopedics,Specialized Care
+Gout,"My big toe is extremely red, swollen, and painful","मेरे पैर का अंगूठा बहुत लाल, सूजा हुआ और दर्दनाक है","माझ्या पायाचा अंगठा खूप लाल, सुजलेला आणि दुखत आहे",big toe,Orthopedics,Specialized Care
+Sciatica,I have a shooting pain from my lower back down my leg,मेरी पीठ के निचले हिस्से से पैर तक तेज दर्द जा रहा है,माझ्या पाठीच्या खालून पायापर्यंत एक तीव्र कळा येत आहे,down my leg,Orthopedics,Specialized Care
+Slipped Disc,I lifted something heavy and now my back is in agony,मैंने कुछ भारी उठाया और अब मेरी कमर में भयंकर दर्द है,मी जड वस्तू उचलली आणि आता माझ्या कमरेत भयंकर वेदना आहेत,lifted heavy,Orthopedics,Emergency
+Carpal Tunnel,My fingers feel numb and tingling,मेरी उंगलियों में सुन्नपन और झुनझुनी हो रही है,माझ्या बोटांना मुंग्या येत आहेत आणि बधीर झाली आहेत,tingling,Neurology,Specialized Care
+Epilepsy,I had a fit and started shaking uncontrollably,मुझे दौरा पड़ा और मैं बेकाबू होकर कांपने लगा,मला झटका आला आणि माझे शरीर अनियंत्रितपणे थरथरत होते,fit,Neurology,Emergency
+Vertigo,The room is spinning and I feel dizzy,मुझे लग रहा है कि कमरा घूम रहा है और चक्कर आ रहे हैं,मला खोली फिरत असल्यासारखी वाटते आणि चक्कर येते,spinning,ENT,Specialized Care
+Alzheimers,I keep forgetting things and getting confused,मैं बार-बार चीजें भूल जाता हूं और भ्रमित हो जाता हूं,मी वारंवार गोष्टी विसरतो आणि गोंधळून जातो,forgetting,Neurology,Specialized Care
+Bells Palsy,One side of my face suddenly stopped moving,मेरे चेहरे का एक हिस्सा अचानक काम करना बंद कर दिया है,माझ्या चेहऱ्याचा एक भाग अचानक हलणे बंद झाला आहे,face stopped moving,Neurology,Emergency
+Meningitis,My neck is totally stiff and I have a sudden high fever,मेरी गर्दन पूरी तरह से अकड़ गई है और अचानक तेज बुखार है,माझी मान पूर्णपणे आखडली आहे आणि अचानक कडक ताप आला आहे,stiff neck,Neurology,Emergency
+Ringworm,"I have a red, itchy, circular patch on my skin","मेरी त्वचा पर एक लाल, खुजली वाला गोल निशान है","माझ्या त्वचेवर एक लाल, खाज सुटणारा गोल डाग आहे",circular patch,Dermatology,Basic Care
+Scabies,I have tiny bumps and intense itching at night,मुझे रात में भयंकर खुजली होती है और छोटे दाने हैं,मला रात्री भयंकर खाज सुटते आणि अंगावर छोटे फोड आहेत,itching at night,Dermatology,Specialized Care
+Acne,My face is breaking out in painful pimples,मेरे चेहरे पर दर्दनाक मुंहासे निकल आए हैं,माझ्या चेहऱ्यावर खूप दुखणारी मुरुमे आली आहेत,pimples,Dermatology,Basic Care
+Hives,"I suddenly got large, itchy, raised red bumps","मुझे अचानक बड़े, लाल और खुजली वाले चकत्ते हो गए हैं","मला अचानक अंगावर मोठे, लाल आणि खाज सुटणारे चट्टे आले आहेत",raised red bumps,Dermatology,Basic Care
+Shingles,I have a very painful blistering rash on one side,मेरे शरीर के एक तरफ बहुत दर्दनाक पानी वाले दाने हो गए हैं,माझ्या शरीराच्या एका बाजूला खूप दुखणारे पाण्याचे फोड आले आहेत,blistering rash,Dermatology,Specialized Care
+Glaucoma,I am losing my side vision and my eyes hurt,मुझे किनारों से दिखना कम हो गया है और आंखों में दर्द है,मला बाजूचे दिसणे कमी झाले आहे आणि डोळे दुखत आहेत,side vision,Ophthalmology,Emergency
+Stye,I have a painful red lump on my eyelid,मेरी पलक पर एक दर्दनाक लाल गांठ हो गई है,माझ्या पापणीवर एक लाल आणि दुखणारी गाठ आली आहे,lump on eyelid,Ophthalmology,Basic Care
+Tinnitus,There is a constant ringing sound in my ears,मेरे कानों में लगातार घंटी बजने जैसी आवाज आ रही है,माझ्या कानात सतत घंटी वाजल्यासारखा आवाज येत आहे,ringing sound,ENT,Specialized Care
+Ear Infection,My ear is in severe pain and fluid is leaking,मेरे कान में तेज दर्द है और पानी निकल रहा है,माझ्या कानात खूप दुखत आहे आणि पाणी येत आहे,fluid leaking,ENT,Specialized Care
+Laryngitis,I have completely lost my voice,मेरी आवाज पूरी तरह से चली गई है,माझा आवाज पूर्णपणे बसला आहे,lost my voice,ENT,Basic Care
+Anxiety,I am constantly worrying and my heart races,मैं लगातार चिंता करता हूं और दिल की धड़कन तेज रहती है,मला सतत चिंता वाटते आणि हृदयाचे ठोके वाढतात,constantly worrying,Psychiatry,Specialized Care
+PTSD,I keep having terrible flashbacks and nightmares,मुझे बार-बार भयानक पुरानी यादें और बुरे सपने आते हैं,मला वारंवार भयंकर जुन्या आठवणी आणि वाईट स्वप्ने पडतात,nightmares,Psychiatry,Specialized Care
+OCD,I cannot stop washing my hands over and over,मैं बार-बार हाथ धोना बंद नहीं कर पा रहा हूं,मी वारंवार हात धुणे थांबवू शकत नाही,washing my hands,Psychiatry,Specialized Care
+Insomnia,I lay in bed awake and cannot fall asleep,मैं रात भर बिस्तर पर जगा रहता हूं और नींद नहीं आती,मी रात्रभर अंथरुणावर जागा असतो आणि झोप येत नाही,cannot fall asleep,Psychiatry,Basic Care
+Endometriosis,My periods are unbearably painful,मेरे पीरियड्स के दौरान असहनीय दर्द होता है,पाळीच्या वेळी मला असह्य वेदना होतात,unbearably painful,Gynecology,Specialized Care
+Menopause,I am getting hot flashes and my periods stopped,मुझे अचानक बहुत गर्मी लगती है और पीरियड्स बंद हो गए हैं,मला अचानक खूप गरम होते आणि पाळी येणे बंद झाले आहे,hot flashes,Gynecology,Basic Care
+Fibroids,I have heavy bleeding and pressure in my pelvis,मुझे बहुत ज्यादा ब्लीडिंग हो रही है और पेट के निचले हिस्से में भारीपन है,मला खूप जास्त रक्तस्राव होत आहे आणि ओटीपोटात जड वाटते,heavy bleeding,Gynecology,Specialized Care
+Vaginitis,I have abnormal discharge and itching down there,मुझे असामान्य पानी जा रहा है और नीचे खुजली हो रही है,मला अंगावरून पांढरे जात आहे आणि खाली खाज येत आहे,abnormal discharge,Gynecology,Basic Care
+BPH,I have trouble starting to pee and go frequently,मुझे पेशाब शुरू करने में दिक्कत होती है और बार-बार जाना पड़ता है,मला लघवी सुरू करताना त्रास होतो आणि वारंवार जावे लागते,trouble starting to pee,Urology,Specialized Care
+Bladder Infection,My lower belly hurts and peeing is painful,मेरे पेट के निचले हिस्से में दर्द है और पेशाब में तकलीफ है,माझ्या ओटीपोटात दुखत आहे आणि लघवी करताना त्रास होत आहे,lower belly hurts,Urology,Specialized Care
+Gingivitis,My gums always bleed when I brush my teeth,"जब भी मैं ब्रश करता हूं, मेरे मसूड़ों से खून आता है",मी दात घासताना माझ्या हिरड्यांमधून नेहमी रक्त येते,gums bleed,Dentistry,Basic Care
+Tooth Abscess,I have intense throbbing tooth pain and a swollen jaw,मेरे दांत में भयंकर दर्द है और जबड़ा सूज गया है,माझ्या दातात भयंकर ठणका लागला आहे आणि जबडा सुजला आहे,swollen jaw,Dentistry,Emergency
+Impacted Wisdom Tooth,The far back of my mouth hurts and my jaw is stiff,मेरे मुंह के सबसे पिछले हिस्से में दर्द है और जबड़ा अकड़ गया है,माझ्या तोंडात अगदी मागे दुखत आहे आणि जबडा आखडला आहे,back of my mouth,Dentistry,Specialized Care
+Celiac Disease,I get diarrhea and pain every time I eat wheat,"जब भी मैं गेहूं खाता हूं, मुझे दस्त और पेट दर्द होता है",जेव्हा मी गहू खातो तेव्हा मला जुलाब आणि पोटदुखी सुरू होते,eat wheat,Gastroenterology,Specialized Care
+Dysentery,I have bloody diarrhea with mucus,मुझे बलगम और खून वाले दस्त हो रहे हैं,मला शौचावाटे रक्त आणि चिकट आव पडत आहे,bloody diarrhea,Gastroenterology,Emergency
+Leukemia,I bruise very easily and feel tired constantly,मुझे बहुत जल्दी खरोंच या नील पड़ जाते हैं और हमेशा थकान रहती है,मला सहजपणे शरीरावर निळे डाग पडतात आणि सतत थकवा जाणवतो,bruise very easily,Hematology,Emergency
+Hemophilia,A small cut won't stop bleeding,एक छोटे से कट से खून बहना बंद नहीं हो रहा है,एका छोट्याशा जखमेतून रक्त वाहणे थांबत नाहीये,bleeding won't stop,Hematology,Emergency
+Vitiligo,White patches are appearing on my skin,मेरी त्वचा पर सफेद दाग उभर रहे हैं,माझ्या त्वचेवर पांढरे डाग दिसू लागले आहेत,white patches,Dermatology,Specialized Care
+Alopecia,My hair is falling out in completely bald round patches,मेरे बाल गोल आकार में झड़ रहे हैं और गंजापन आ रहा है,माझे केस गोल आकारात गळत आहेत आणि तिथे टक्कल पडत आहे,falling out in patches,Dermatology,Specialized Care
+Plantar Fasciitis,My heel has a sharp pain when I take my first step in the morning,सुबह पहला कदम रखते ही मेरी एड़ी में तेज दर्द होता है,सकाळी पहिले पाऊल टाकताना माझ्या टाचेत खूप तीव्र कळा येतात,sharp heel pain,Orthopedics,Specialized Care
+Sprain,"I twisted my wrist, it is swollen and hurts to move","मेरी कलाई मुड़ गई है, सूज गई है और हिलाने पर दर्द होता है","माझे मनगट मुरगळले आहे, सूज आली आहे आणि हलवताना दुखत आहे",twisted my wrist,Orthopedics,Basic Care
+Tendonitis,My elbow hurts sharply when I move my arm,जब मैं अपना हाथ हिलाता हूं तो मेरी कोहनी में तेज दर्द होता है,हात हलवताना माझ्या कोपऱ्यात खूप तीव्र वेदना होतात,elbow hurts,Orthopedics,Specialized Care
+Osteoporosis,I fell slightly and my bone broke easily,मैं थोड़ा सा गिरा और मेरी हड्डी आसानी से टूट गई,मी थोडासा पडलो आणि माझे हाड सहज मोडले,bone broke easily,Orthopedics,Emergency
+Bipolar Disorder,I go from extremely energetic to deeply depressed,मैं कभी बहुत ऊर्जावान महसूस करता हूं और कभी गहरे डिप्रेशन में चला जाता हूं,मला कधी खूप ऊर्जावान वाटते तर कधी मी खूप निराश होतो,energetic to depressed,Psychiatry,Specialized Care
+ADHD,I cannot focus on anything and feel very restless,मैं किसी भी चीज़ पर ध्यान नहीं लगा पाता और बहुत बेचैन रहता हूँ,मी कशावरही लक्ष केंद्रित करू शकत नाही आणि खूप अस्वस्थ वाटत राहते,cannot focus,Psychiatry,Specialized Care
+Schizophrenia,I am hearing voices that nobody else can hear,मुझे ऐसी आवाज़ें सुनाई दे रही हैं जो किसी और को सुनाई नहीं देतीं,मला असे आवाज ऐकू येत आहेत जे इतर कोणालाही ऐकू येत नाहीत,hearing voices,Psychiatry,Emergency
+Tetanus,I stepped on a rusty nail and my jaw is locking tight,मेरे पैर में जंग लगी कील चुभ गई थी और अब मेरा जबड़ा लॉक हो रहा है,माझ्या पायात गंजलेला खिळा घुसला होता आणि आता माझा जबडा घट्ट होत आहे,jaw is locking,Infectious Diseases,Emergency
+Leprosy,I have light patches on my skin that have no feeling,मेरी त्वचा पर हल्के दाग हैं जिनमें कुछ भी महसूस नहीं होता,माझ्या त्वचेवर फिकट डाग आहेत ज्यावर मला काहीही संवेदना जाणवत नाही,no feeling,Dermatology,Specialized Care
+Diphtheria,My throat has a thick grey coating and it is hard to breathe,मेरे गले में एक मोटी भूरी परत जम गई है और सांस लेना मुश्किल है,माझ्या घशात एक जाड राखाडी थर जमा झाला आहे आणि श्वास घेणे कठीण झाले आहे,grey coating,Infectious Diseases,Emergency
+Pertussis,I have uncontrollable coughing fits with a whoop sound,मुझे खांसते-खांसते दौरे पड़ रहे हैं और सीटी जैसी आवाज़ आ रही है,मला खोकल्याची उबळ येत आहे आणि घशातून आवाज येत आहे,whoop sound,Pulmonology,Emergency
+Rubella,I have a mild fever and a rash spreading from my face,मुझे हल्का बुखार है और चेहरे से लाल दाने फैल रहे हैं,मला थोडा ताप आहे आणि चेहऱ्यावरून लाल पुरळ पसरत आहे,spreading from face,Infectious Diseases,Basic Care
+Mastitis,I am breastfeeding and my breast is red and painful,मैं बच्चे को दूध पिलाती हूं और मेरा स्तन लाल हो गया है और दर्द कर रहा है,मी बाळाला दूध पाजते आणि माझी छाती लाल झाली आहे आणि खूप दुखत आहे,breastfeeding red,Gynecology,Specialized Care
+Ectopic Pregnancy,I am pregnant and have sudden sharp pain in my lower side,मैं गर्भवती हूँ और पेट के निचले हिस्से में अचानक तेज़ दर्द हुआ है,मी गरोदर आहे आणि ओटीपोटाच्या एका बाजूला अचानक खूप कळा येत आहेत,pregnant sharp pain,Gynecology,Emergency
