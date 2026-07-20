@@ -208,8 +208,8 @@ If you would like to improve this project:
 ---
 
 ## 👩‍💻 Author
-**Shivam Sonavwane**
-**Manasi Deshmukh**
+**Shivam Sonavwane**,
+**Manasi Deshmukh** and 
 **Yash Rane**
 
 **B.E in Computer Science Engineering**
