@@ -208,10 +208,11 @@ If you would like to improve this project:
 ---
 
 ## 👩‍💻 Author
-
+**Shivam Sonavwane**
 **Manasi Deshmukh**
+**Yash Rane**
 
-**B.Tech Artificial Intelligence & Data Science**
+**B.E in Computer Science Engineering**
 
 Passionate about Artificial Intelligence, Natural Language Processing, Healthcare Technology, and developing intelligent systems that create meaningful real-world impact.
 
